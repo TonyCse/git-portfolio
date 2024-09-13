@@ -1,0 +1,19 @@
+.Projects-container{
+    width: 50%;
+    margin: 10px auto;
+}
+
+.Projects-container ul{
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+.Projects-container ul li{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Projects-container ul li span{
+    font-weight: 600;
+}
